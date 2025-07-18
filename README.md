@@ -11,8 +11,8 @@ Inspired by viral taskbar gadgets like RunCat365, this tool pulls prices from Co
 
 ## Demo
 
-![Taskbar Ticker in Action](docs/demo.gif)  
-*(GIF showing the tray icon updating with a crypto price, right-click menu for refresh/settings/quit, and a dialog for changing the coin ID/symbol.)*
+![Taskbar Ticker Demo](docs/screenshot.png)  
+*Taskbar Ticker showing crypto logos in the Windows system tray*
 
 ## Table of Contents
 
