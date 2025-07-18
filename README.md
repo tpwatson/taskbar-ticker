@@ -11,6 +11,10 @@ Inspired by viral taskbar gadgets like RunCat365, this tool pulls prices from Co
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/d749bfaf-c95a-491a-893a-cff849fb2d62
+
+
 ![Taskbar Ticker Demo](docs/screenshot.png)  
 *Taskbar Ticker showing crypto logos in the Windows system tray*
 
