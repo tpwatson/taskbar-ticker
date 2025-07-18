@@ -84,7 +84,7 @@ Follow these steps to get Taskbar Ticker running locally.
    *(requirements.txt: requests, pystray, pillow)*
 
 For a pre-built executable (no Python needed):
-- Download the latest .exe from [Releases](https://github.com/tpwatson/taskbar-ticker/releases).
+- Build it yourself following the steps in [Building the Executable](#building-the-executable) and find `TaskbarTicker.exe` in the `dist/` folder.
 
 ## Usage
 
@@ -114,8 +114,8 @@ Edit manually or via the in-app dialog. Future updates could add more options li
 
 Want to distribute a standalone .exe?
 1. Install PyInstaller: `pip install pyinstaller`.
-2. Run: `pyinstaller --onefile --windowed main.py`.
-3. Find `dist/main.exe`—share it with friends!
+2. Run: `python -m PyInstaller --onefile --windowed --name "TaskbarTicker" main.py`.
+3. Find `dist/TaskbarTicker.exe`—share it with friends!
 
 (Note: For signed executables to avoid Windows warnings, get a code signing cert from a CA like DigiCert.)
 
