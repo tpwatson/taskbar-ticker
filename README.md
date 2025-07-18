@@ -1,7 +1,7 @@
 # Taskbar Ticker
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/taskbar-ticker?style=social)](https://github.com/yourusername/taskbar-ticker/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/taskbar-ticker?style=social)](https://github.com/yourusername/taskbar-ticker/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/tpwatson/taskbar-ticker?style=social)](https://github.com/tpwatson/taskbar-ticker/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tpwatson/taskbar-ticker?style=social)](https://github.com/tpwatson/taskbar-ticker/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
@@ -73,7 +73,7 @@ Follow these steps to get Taskbar Ticker running locally.
 
 1. Clone the repo:
    ```
-   git clone https://github.com/yourusername/taskbar-ticker.git
+   git clone https://github.com/tpwatson/taskbar-ticker.git
    cd taskbar-ticker
    ```
 
@@ -84,7 +84,7 @@ Follow these steps to get Taskbar Ticker running locally.
    *(requirements.txt: requests, pystray, pillow)*
 
 For a pre-built executable (no Python needed):
-- Download the latest .exe from [Releases](https://github.com/yourusername/taskbar-ticker/releases).
+- Download the latest .exe from [Releases](https://github.com/tpwatson/taskbar-ticker/releases).
 
 ## Usage
 
